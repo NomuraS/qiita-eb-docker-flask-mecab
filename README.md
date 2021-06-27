@@ -1,0 +1,1 @@
+Qiitaの記事「Frozen-Flaskによる静的サイト生成」(https://qiita.com/NomuraS/items/c5113db5488da679e7df) で用いられるサンプルコードになります。
